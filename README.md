@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zied Ben El Bahri
 
-🎓 Final-year Network Engineering student at the National Institute of Applied Sciences and Technology (INSAT), Tunisia.  
+🎓 4th-year Network Engineering student at the National Institute of Applied Sciences and Technology (INSAT), Tunisia.  
 ☁️ Cloud and DevOps enthusiast with hands-on experience in Azure and AWS platforms.  
 🚀 Passionate about building scalable, secure, and automated cloud infrastructures.
 
