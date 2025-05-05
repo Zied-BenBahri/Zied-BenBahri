@@ -40,6 +40,9 @@
 
 - 📧 Email: [ziedbenbahri@gmail.com](mailto:ziedbenbahri@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/zied-ben-bahri-96009624b](https://www.linkedin.com/in/zied-ben-bahri-96009624b)
+- 🏆 Credly: [Zied Ben Bahri's Credly Profile](https://www.credly.com/users/zied-ben-bahri)
+- 📜 Microsoft Learn Transcript: [Zied Ben Bahri's Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/ziedbenbahri-3480/transcript/73j01swo1w19z14?tab=credentials-tab)
+
 ---
 
 *Feel free to explore my repositories to see my work in action!*
